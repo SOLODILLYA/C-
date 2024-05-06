@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|c:\\users\\solod\\it\\step\\c#\\bookscatalog\\bookscatalog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\bookscatalog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|c:\\users\\solod\\it\\step\\c#\\bookscatalog\\bookscatalog\\repos\\catalogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\repos\\catalogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|c:\\users\\solod\\it\\step\\c#\\bookscatalog\\bookscatalog\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\bookscatalog\\interfaces\\isubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\interfaces\\isubjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|c:\\users\\solod\\it\\step\\c#\\bookscatalog\\bookscatalog\\interfaces\\icatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\interfaces\\icatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\bookscatalog\\data\\subject.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\data\\subject.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\bookscatalog\\data\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\data\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\bookscatalog\\models\\subjectscatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\models\\subjectscatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\bookscatalog\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\bookscatalog\\repos\\subjectsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5E6E43-6EC7-4F44-A448-4A05473C9760}|BooksCatalog\\BooksCatalog.csproj|solutionrelative:bookscatalog\\repos\\subjectsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Models\\Catalog.cs",
+              "RelativeDocumentMoniker": "BooksCatalog\\Models\\Catalog.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Models\\Catalog.cs",
+              "RelativeToolTip": "BooksCatalog\\Models\\Catalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:47:15.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogRepo.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Repos\\CatalogRepo.cs",
+              "RelativeDocumentMoniker": "BooksCatalog\\Repos\\CatalogRepo.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Repos\\CatalogRepo.cs",
+              "RelativeToolTip": "BooksCatalog\\Repos\\CatalogRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:40:07.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICatalog.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Interfaces\\ICatalog.cs",
+              "RelativeDocumentMoniker": "BooksCatalog\\Interfaces\\ICatalog.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Interfaces\\ICatalog.cs",
+              "RelativeToolTip": "BooksCatalog\\Interfaces\\ICatalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:40:03.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Form1.cs",
+              "RelativeDocumentMoniker": "BooksCatalog\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Form1.cs [Design]",
+              "RelativeToolTip": "BooksCatalog\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T11:45:59.005Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubjectsCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Models\\SubjectsCatalog.cs",
+              "RelativeDocumentMoniker": "BooksCatalog\\Models\\SubjectsCatalog.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Models\\SubjectsCatalog.cs",
+              "RelativeToolTip": "BooksCatalog\\Models\\SubjectsCatalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T20:40:14.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "BooksCatalog\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Models\\Subject.cs",
+              "RelativeToolTip": "BooksCatalog\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:26:55.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subject.json",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Data\\Subject.json",
+              "RelativeDocumentMoniker": "BooksCatalog\\Data\\Subject.json",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Data\\Subject.json",
+              "RelativeToolTip": "BooksCatalog\\Data\\Subject.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-23T15:26:08.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Books.json",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Data\\Books.json",
+              "RelativeDocumentMoniker": "BooksCatalog\\Data\\Books.json",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Data\\Books.json",
+              "RelativeToolTip": "BooksCatalog\\Data\\Books.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T13:55:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Form1.cs",
+              "RelativeDocumentMoniker": "BooksCatalog\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Form1.cs",
+              "RelativeToolTip": "BooksCatalog\\Form1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwFoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T13:14:18.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubjectsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Repos\\SubjectsRepo.cs",
+              "RelativeDocumentMoniker": "BooksCatalog\\Repos\\SubjectsRepo.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Repos\\SubjectsRepo.cs",
+              "RelativeToolTip": "BooksCatalog\\Repos\\SubjectsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:25:37.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISubjects.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Interfaces\\ISubjects.cs",
+              "RelativeDocumentMoniker": "BooksCatalog\\Interfaces\\ISubjects.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\BooksCatalog\\BooksCatalog\\Interfaces\\ISubjects.cs",
+              "RelativeToolTip": "BooksCatalog\\Interfaces\\ISubjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:24:59.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

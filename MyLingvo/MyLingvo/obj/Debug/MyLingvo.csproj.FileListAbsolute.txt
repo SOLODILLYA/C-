@@ -1,0 +1,12 @@
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\bin\Debug\MyLingvo.exe.config
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\bin\Debug\MyLingvo.exe
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\bin\Debug\MyLingvo.pdb
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\obj\Debug\MyLingvo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\obj\Debug\MyLingvo.Form1.resources
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\obj\Debug\MyLingvo.Properties.Resources.resources
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\obj\Debug\MyLingvo.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\obj\Debug\MyLingvo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\obj\Debug\MyLingvo.exe
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\obj\Debug\MyLingvo.pdb
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\obj\Debug\MyLingvo.WordsEditor.resources
+C:\Users\solod\IT\Step\C#\MyLingvo\MyLingvo\obj\Debug\MyLingvo.Quizz.resources

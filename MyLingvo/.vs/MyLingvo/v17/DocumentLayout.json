@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\mylingvo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|solutionrelative:mylingvo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|c:\\users\\solod\\it\\step\\c#\\mylingvo\\mylingvo\\data\\words.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|solutionrelative:mylingvo\\data\\words.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\mylingvo\\quizzform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|solutionrelative:mylingvo\\quizzform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|c:\\users\\solod\\it\\step\\c#\\mylingvo\\mylingvo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|solutionrelative:mylingvo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\mylingvo\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|solutionrelative:mylingvo\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\mylingvo\\wordseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|solutionrelative:mylingvo\\wordseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\mylingvo\\wordseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|solutionrelative:mylingvo\\wordseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\mylingvo\\quizzform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|solutionrelative:mylingvo\\quizzform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\mylingvo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F82597E5-2424-459A-BB3D-BF052EEC2FFB}|MyLingvo\\MyLingvo.csproj|solutionrelative:mylingvo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Program.cs",
+              "RelativeDocumentMoniker": "MyLingvo\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Program.cs",
+              "RelativeToolTip": "MyLingvo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T15:32:16.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizzForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\QuizzForm.cs",
+              "RelativeDocumentMoniker": "MyLingvo\\QuizzForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\QuizzForm.cs",
+              "RelativeToolTip": "MyLingvo\\QuizzForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T15:26:24.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordsEditor.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\WordsEditor.cs",
+              "RelativeDocumentMoniker": "MyLingvo\\WordsEditor.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\WordsEditor.cs",
+              "RelativeToolTip": "MyLingvo\\WordsEditor.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwF8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-11T14:03:51.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WordsEditor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\WordsEditor.cs",
+              "RelativeDocumentMoniker": "MyLingvo\\WordsEditor.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\WordsEditor.cs [Design]",
+              "RelativeToolTip": "MyLingvo\\WordsEditor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-11T13:55:34.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Form1.cs",
+              "RelativeDocumentMoniker": "MyLingvo\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Form1.cs",
+              "RelativeToolTip": "MyLingvo\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:14:56.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuizzForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\QuizzForm.cs",
+              "RelativeDocumentMoniker": "MyLingvo\\QuizzForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\QuizzForm.cs [Design]",
+              "RelativeToolTip": "MyLingvo\\QuizzForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T15:20:12.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Words.xml",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Data\\Words.xml",
+              "RelativeDocumentMoniker": "MyLingvo\\Data\\Words.xml",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Data\\Words.xml",
+              "RelativeToolTip": "MyLingvo\\Data\\Words.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-02-06T17:45:37.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Models\\Word.cs",
+              "RelativeDocumentMoniker": "MyLingvo\\Models\\Word.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Models\\Word.cs",
+              "RelativeToolTip": "MyLingvo\\Models\\Word.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:56:54.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Form1.cs",
+              "RelativeDocumentMoniker": "MyLingvo\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\MyLingvo\\MyLingvo\\Form1.cs [Design]",
+              "RelativeToolTip": "MyLingvo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T17:08:00.588Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

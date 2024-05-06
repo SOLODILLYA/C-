@@ -1,0 +1,10 @@
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\bin\Debug\RegistryUsage.exe.config
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\bin\Debug\RegistryUsage.exe
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\bin\Debug\RegistryUsage.pdb
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\obj\Debug\RegistryUsage.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\obj\Debug\RegistryUsage.Form1.resources
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\obj\Debug\RegistryUsage.Properties.Resources.resources
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\obj\Debug\RegistryUsage.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\obj\Debug\RegistryUsage.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\obj\Debug\RegistryUsage.exe
+C:\Users\solod\IT\Step\C#\RegistryUsage\RegistryUsage\obj\Debug\RegistryUsage.pdb

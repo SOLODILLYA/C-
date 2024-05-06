@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\AnonimousMethods\AnonimousMethods\bin\Debug\AnonimousMethods.exe.config
+C:\Users\solod\IT\Step\C#\AnonimousMethods\AnonimousMethods\bin\Debug\AnonimousMethods.exe
+C:\Users\solod\IT\Step\C#\AnonimousMethods\AnonimousMethods\bin\Debug\AnonimousMethods.pdb
+C:\Users\solod\IT\Step\C#\AnonimousMethods\AnonimousMethods\obj\Debug\AnonimousMethods.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\AnonimousMethods\AnonimousMethods\obj\Debug\AnonimousMethods.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\AnonimousMethods\AnonimousMethods\obj\Debug\AnonimousMethods.exe
+C:\Users\solod\IT\Step\C#\AnonimousMethods\AnonimousMethods\obj\Debug\AnonimousMethods.pdb

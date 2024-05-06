@@ -1,0 +1,11 @@
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\bin\Debug\CVAnalysis.exe.config
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\bin\Debug\CVAnalysis.exe
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\bin\Debug\CVAnalysis.pdb
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\obj\Debug\CVAnalysis.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\obj\Debug\CVAnalysis.Form1.resources
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\obj\Debug\CVAnalysis.Properties.Resources.resources
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\obj\Debug\CVAnalysis.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\obj\Debug\CVAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\obj\Debug\CVAnalysis.exe
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\obj\Debug\CVAnalysis.pdb
+C:\Users\solod\IT\Step\C#\CVAnalysis\CVAnalysis\obj\Debug\CVAnalysis.Analysis.resources

@@ -1,0 +1,10 @@
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\bin\Debug\DocsReader.exe.config
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\bin\Debug\DocsReader.exe
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\bin\Debug\DocsReader.pdb
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\obj\Debug\DocsReader.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\obj\Debug\DocsReader.Form1.resources
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\obj\Debug\DocsReader.Properties.Resources.resources
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\obj\Debug\DocsReader.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\obj\Debug\DocsReader.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\obj\Debug\DocsReader.exe
+C:\Users\solod\IT\Step\C#\DocsReader\DocsReader\obj\Debug\DocsReader.pdb

@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\UserEnum\UserEnum\bin\Debug\UserEnum.exe.config
+C:\Users\solod\IT\Step\C#\UserEnum\UserEnum\bin\Debug\UserEnum.exe
+C:\Users\solod\IT\Step\C#\UserEnum\UserEnum\bin\Debug\UserEnum.pdb
+C:\Users\solod\IT\Step\C#\UserEnum\UserEnum\obj\Debug\UserEnum.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\UserEnum\UserEnum\obj\Debug\UserEnum.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\UserEnum\UserEnum\obj\Debug\UserEnum.exe
+C:\Users\solod\IT\Step\C#\UserEnum\UserEnum\obj\Debug\UserEnum.pdb

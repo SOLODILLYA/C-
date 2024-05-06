@@ -1,0 +1,10 @@
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\bin\Debug\DLLDemo.exe.config
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\bin\Debug\DLLDemo.exe
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\bin\Debug\DLLDemo.pdb
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\bin\Debug\ModelsLibrary.dll
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\bin\Debug\ModelsLibrary.pdb
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\obj\Debug\DLLDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\obj\Debug\DLLDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\obj\Debug\DLLDemo.csproj.Up2Date
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\obj\Debug\DLLDemo.exe
+C:\Users\solod\IT\Step\C#\DLLDemo\DLLDemo\obj\Debug\DLLDemo.pdb

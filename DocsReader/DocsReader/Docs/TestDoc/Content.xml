@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root name="WinForms Textbook">
+	<chapter name="Entry Level WinForms">
+		<paragraph name="GUI Libraries"/>
+		<paragraph name="WinForms History"/>
+		<paragraph name="WinForms Value"/>
+	</chapter>
+	<chapter name="Basic Elements">
+		<paragraph name="Button Elements"/>
+		<paragraph name="Text Elements"/>
+		<paragraph name="Navigation Elements"/>
+	</chapter>
+</root>

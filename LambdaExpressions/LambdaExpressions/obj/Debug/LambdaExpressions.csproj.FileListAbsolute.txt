@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Users\solod\IT\Step\C#\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\solod\IT\Step\C#\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\solod\IT\Step\C#\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Users\solod\IT\Step\C#\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

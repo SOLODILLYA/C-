@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\WithoutIfCalc\WithoutIfCalc\bin\Debug\WithoutIfCalc.exe.config
+C:\Users\solod\IT\Step\C#\WithoutIfCalc\WithoutIfCalc\bin\Debug\WithoutIfCalc.exe
+C:\Users\solod\IT\Step\C#\WithoutIfCalc\WithoutIfCalc\bin\Debug\WithoutIfCalc.pdb
+C:\Users\solod\IT\Step\C#\WithoutIfCalc\WithoutIfCalc\obj\Debug\WithoutIfCalc.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\WithoutIfCalc\WithoutIfCalc\obj\Debug\WithoutIfCalc.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\WithoutIfCalc\WithoutIfCalc\obj\Debug\WithoutIfCalc.exe
+C:\Users\solod\IT\Step\C#\WithoutIfCalc\WithoutIfCalc\obj\Debug\WithoutIfCalc.pdb

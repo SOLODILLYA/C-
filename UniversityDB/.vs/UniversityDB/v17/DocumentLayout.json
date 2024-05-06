@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\Queries\\Student.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Queries\\Student.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/UniversitySoloDB.mssql.somee.com/UniversitySoloDB/SOLOD_SQLLogin_3/SqlTable/dbo.Groups.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solod\\AppData\\Local\\Temp\\vrxyanwn..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/UniversitySoloDB.mssql.somee.com/UniversitySoloDB/SOLOD_SQLLogin_3/SqlTable/dbo.Faculties.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solod\\AppData\\Local\\Temp\\5mqg4wbf..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\Queries\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Queries\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38583F01-6DCB-44D5-AA2B-B82DBD599798}|UniversityDB\\UniversityDB.csproj|C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\universitydb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38583F01-6DCB-44D5-AA2B-B82DBD599798}|UniversityDB\\UniversityDB.csproj|solutionrelative:universitydb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\Queries\\Student.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Queries\\Student.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.sql ",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\Queries\\Student.sql",
+              "RelativeDocumentMoniker": "Queries\\Student.sql",
+              "ToolTip": "Student.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T18:12:53.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Groups [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/UniversitySoloDB.mssql.somee.com/UniversitySoloDB/SOLOD_SQLLogin_3/SqlTable/dbo.Groups.sql",
+              "ToolTip": "dbo.Groups [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T18:09:32.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Faculties [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/UniversitySoloDB.mssql.somee.com/UniversitySoloDB/SOLOD_SQLLogin_3/SqlTable/dbo.Faculties.sql",
+              "ToolTip": "dbo.Faculties [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T18:08:15.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vrxyanwn..sql",
+              "DocumentMoniker": "C:\\Users\\solod\\AppData\\Local\\Temp\\vrxyanwn..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\vrxyanwn..sql",
+              "ToolTip": "C:\\Users\\solod\\AppData\\Local\\Temp\\vrxyanwn..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\vrxyanwn..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-28T15:58:27.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\solod\\AppData\\Local\\Temp\\5mqg4wbf..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\5mqg4wbf..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-27T18:37:30.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\Queries\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "Queries\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\Queries\\SQLQuery1.sql",
+              "RelativeToolTip": "Queries\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-27T16:37:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\UniversityDB\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityDB\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\UniversityDB\\UniversityDB\\Program.cs",
+              "RelativeToolTip": "UniversityDB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:21:49.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

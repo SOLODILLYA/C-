@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\C#\\SructuresDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6A3AD2-97C0-440C-87B7-791E637431D4}|SructuresDemo\\SructuresDemo.csproj|c:\\users\\solod\\it\\step\\c#\\sructuresdemo\\sructuresdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6A3AD2-97C0-440C-87B7-791E637431D4}|SructuresDemo\\SructuresDemo.csproj|solutionrelative:sructuresdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6A3AD2-97C0-440C-87B7-791E637431D4}|SructuresDemo\\SructuresDemo.csproj|C:\\Users\\solod\\IT\\Step\\C#\\SructuresDemo\\sructuresdemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6A3AD2-97C0-440C-87B7-791E637431D4}|SructuresDemo\\SructuresDemo.csproj|solutionrelative:sructuresdemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\SructuresDemo\\SructuresDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SructuresDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\SructuresDemo\\SructuresDemo\\Program.cs",
+              "RelativeToolTip": "SructuresDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:21:54.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\SructuresDemo\\SructuresDemo\\Person.cs",
+              "RelativeDocumentMoniker": "SructuresDemo\\Person.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\SructuresDemo\\SructuresDemo\\Person.cs",
+              "RelativeToolTip": "SructuresDemo\\Person.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwDYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:52:04.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\bin\Debug\Clock1.exe.config
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\bin\Debug\Clock1.exe
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\bin\Debug\Clock1.pdb
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\obj\Debug\Clock1.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\obj\Debug\Clock1.Form1.resources
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\obj\Debug\Clock1.Properties.Resources.resources
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\obj\Debug\Clock1.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\obj\Debug\Clock1.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\obj\Debug\Clock1.exe
+C:\Users\solod\IT\Step\C#\Clock1\Clock1\obj\Debug\Clock1.pdb

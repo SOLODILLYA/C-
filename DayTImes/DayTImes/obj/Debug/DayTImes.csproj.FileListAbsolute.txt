@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\DayTImes\DayTImes\bin\Debug\DayTImes.exe.config
+C:\Users\solod\IT\Step\C#\DayTImes\DayTImes\bin\Debug\DayTImes.exe
+C:\Users\solod\IT\Step\C#\DayTImes\DayTImes\bin\Debug\DayTImes.pdb
+C:\Users\solod\IT\Step\C#\DayTImes\DayTImes\obj\Debug\DayTImes.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\DayTImes\DayTImes\obj\Debug\DayTImes.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\DayTImes\DayTImes\obj\Debug\DayTImes.exe
+C:\Users\solod\IT\Step\C#\DayTImes\DayTImes\obj\Debug\DayTImes.pdb

@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\SructuresDemo\SructuresDemo\bin\Debug\SructuresDemo.exe.config
+C:\Users\solod\IT\Step\C#\SructuresDemo\SructuresDemo\bin\Debug\SructuresDemo.exe
+C:\Users\solod\IT\Step\C#\SructuresDemo\SructuresDemo\bin\Debug\SructuresDemo.pdb
+C:\Users\solod\IT\Step\C#\SructuresDemo\SructuresDemo\obj\Debug\SructuresDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\SructuresDemo\SructuresDemo\obj\Debug\SructuresDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\SructuresDemo\SructuresDemo\obj\Debug\SructuresDemo.exe
+C:\Users\solod\IT\Step\C#\SructuresDemo\SructuresDemo\obj\Debug\SructuresDemo.pdb

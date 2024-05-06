@@ -1,0 +1,6 @@
+C:\Users\solod\IT\Step\C#\Operators Overload\Operators Overload\bin\Debug\Operators_Overload.exe
+C:\Users\solod\IT\Step\C#\Operators Overload\Operators Overload\bin\Debug\Operators_Overload.pdb
+C:\Users\solod\IT\Step\C#\Operators Overload\Operators Overload\obj\Debug\Operators Overload.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\Operators Overload\Operators Overload\obj\Debug\Operators Overload.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\Operators Overload\Operators Overload\obj\Debug\Operators_Overload.exe
+C:\Users\solod\IT\Step\C#\Operators Overload\Operators Overload\obj\Debug\Operators_Overload.pdb

@@ -1,0 +1,23 @@
+
+
+ALTER TABLE [Products] DROP CONSTRAINT [Products_fk0];
+ALTER TABLE [Products] DROP CONSTRAINT [Products_fk1];
+
+
+
+ALTER TABLE [Orders] DROP CONSTRAINT [Orders_fk0];
+ALTER TABLE [Orders] DROP CONSTRAINT [Orders_fk1];
+ALTER TABLE [Orders] DROP CONSTRAINT [Orders_fk2];
+ALTER TABLE [Orders] DROP CONSTRAINT [Orders_fk3];
+ALTER TABLE [OrderItems] DROP CONSTRAINT [OrderItems_fk0];
+ALTER TABLE [OrderItems] DROP CONSTRAINT [OrderItems_fk1];
+
+DROP TABLE IF EXISTS [Categories];
+DROP TABLE IF EXISTS [Producers];
+DROP TABLE IF EXISTS [Products];
+DROP TABLE IF EXISTS [Clients];
+DROP TABLE IF EXISTS [Managers];
+DROP TABLE IF EXISTS [Couriers];
+DROP TABLE IF EXISTS [Orders];
+DROP TABLE IF EXISTS [OrderItems];
+DROP TABLE IF EXISTS [Statuses];

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\C#\\DocsReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1DCD27-6BCE-4449-9016-3B1AE01FE0D5}|DocsReader\\DocsReader.csproj|c:\\users\\solod\\it\\step\\c#\\docsreader\\docsreader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1DCD27-6BCE-4449-9016-3B1AE01FE0D5}|DocsReader\\DocsReader.csproj|solutionrelative:docsreader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1DCD27-6BCE-4449-9016-3B1AE01FE0D5}|DocsReader\\DocsReader.csproj|c:\\users\\solod\\it\\step\\c#\\docsreader\\docsreader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C1DCD27-6BCE-4449-9016-3B1AE01FE0D5}|DocsReader\\DocsReader.csproj|solutionrelative:docsreader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1DCD27-6BCE-4449-9016-3B1AE01FE0D5}|DocsReader\\DocsReader.csproj|c:\\users\\solod\\it\\step\\c#\\docsreader\\docsreader\\docs\\testdoc\\content.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C1DCD27-6BCE-4449-9016-3B1AE01FE0D5}|DocsReader\\DocsReader.csproj|solutionrelative:docsreader\\docs\\testdoc\\content.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1087,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\DocsReader\\DocsReader\\Form1.cs",
+              "RelativeDocumentMoniker": "DocsReader\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\DocsReader\\DocsReader\\Form1.cs",
+              "RelativeToolTip": "DocsReader\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAewEEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T13:09:16.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Content.xml",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\DocsReader\\DocsReader\\Docs\\TestDoc\\Content.xml",
+              "RelativeDocumentMoniker": "DocsReader\\Docs\\TestDoc\\Content.xml",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\DocsReader\\DocsReader\\Docs\\TestDoc\\Content.xml",
+              "RelativeToolTip": "DocsReader\\Docs\\TestDoc\\Content.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-02-24T12:53:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\DocsReader\\DocsReader\\Form1.cs",
+              "RelativeDocumentMoniker": "DocsReader\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\DocsReader\\DocsReader\\Form1.cs [Design]",
+              "RelativeToolTip": "DocsReader\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T12:44:27.271Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

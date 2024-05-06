@@ -1,0 +1,6 @@
+C:\Users\solod\IT\Step\C#\DLLDemo\ModelsLibrary\bin\Debug\ModelsLibrary.dll
+C:\Users\solod\IT\Step\C#\DLLDemo\ModelsLibrary\bin\Debug\ModelsLibrary.pdb
+C:\Users\solod\IT\Step\C#\DLLDemo\ModelsLibrary\obj\Debug\ModelsLibrary.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\DLLDemo\ModelsLibrary\obj\Debug\ModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\DLLDemo\ModelsLibrary\obj\Debug\ModelsLibrary.dll
+C:\Users\solod\IT\Step\C#\DLLDemo\ModelsLibrary\obj\Debug\ModelsLibrary.pdb

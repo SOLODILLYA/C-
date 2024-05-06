@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\ProductDemo\ProductDemo\bin\Debug\ProductDemo.exe.config
+C:\Users\solod\IT\Step\C#\ProductDemo\ProductDemo\bin\Debug\ProductDemo.exe
+C:\Users\solod\IT\Step\C#\ProductDemo\ProductDemo\bin\Debug\ProductDemo.pdb
+C:\Users\solod\IT\Step\C#\ProductDemo\ProductDemo\obj\Debug\ProductDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\ProductDemo\ProductDemo\obj\Debug\ProductDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\ProductDemo\ProductDemo\obj\Debug\ProductDemo.exe
+C:\Users\solod\IT\Step\C#\ProductDemo\ProductDemo\obj\Debug\ProductDemo.pdb

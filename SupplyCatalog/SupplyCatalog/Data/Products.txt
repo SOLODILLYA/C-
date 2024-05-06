@@ -1,0 +1,6 @@
+﻿1 - Bread - 1.00 Euro  - 500 gram - 1 - bread.jpg
+2 - Salmon - 10.00 Euro - 500 gram - 2 - salmon.jpg
+3 - Pork - 9.50 Euro - 1kg - 3 - pork.jpg
+4 - Cake - 11.50 Euro - 1 kg - 1  - cake.jpg
+5 - Chicken - 7.50 Euro - 750 gram - 3 - chicken.jpg
+6 - Eel - 25.00 Euro - 1 kg - 2 - eel.jpg

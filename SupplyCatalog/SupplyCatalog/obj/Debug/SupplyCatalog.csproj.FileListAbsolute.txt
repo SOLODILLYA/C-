@@ -1,0 +1,10 @@
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\bin\Debug\SupplyCatalog.exe.config
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\bin\Debug\SupplyCatalog.exe
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\bin\Debug\SupplyCatalog.pdb
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\obj\Debug\SupplyCatalog.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\obj\Debug\SupplyCatalog.Form1.resources
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\obj\Debug\SupplyCatalog.Properties.Resources.resources
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\obj\Debug\SupplyCatalog.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\obj\Debug\SupplyCatalog.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\obj\Debug\SupplyCatalog.exe
+C:\Users\solod\IT\Step\C#\SupplyCatalog\SupplyCatalog\obj\Debug\SupplyCatalog.pdb

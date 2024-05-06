@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\addexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\addexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\addexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\addexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\data\\tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\data\\tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\selectexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\selectexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\examquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\examquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\examquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\examquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\selectexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\selectexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\repos\\testsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\repos\\testsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\models\\gradesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\models\\gradesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\data\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\repos\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\repos\\usersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\data\\grades.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\data\\grades.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\repos\\gradesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\repos\\gradesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\models\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\models\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\models\\testsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\models\\testsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\gradesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\gradesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|c:\\users\\solod\\it\\step\\c#\\examc#\\examc#\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF933429-0B46-48CB-84E7-2F773576DC88}|ExamC#\\ExamC#.csproj|solutionrelative:examc#\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1288,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\SelectExam.cs",
+              "RelativeDocumentMoniker": "ExamC#\\SelectExam.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\SelectExam.cs [Design]",
+              "RelativeToolTip": "ExamC#\\SelectExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:36:24.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamQuestions.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\ExamQuestions.cs",
+              "RelativeDocumentMoniker": "ExamC#\\ExamQuestions.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\ExamQuestions.cs",
+              "RelativeToolTip": "ExamC#\\ExamQuestions.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:34:52.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tests.json",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Data\\tests.json",
+              "RelativeDocumentMoniker": "ExamC#\\Data\\tests.json",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Data\\tests.json",
+              "RelativeToolTip": "ExamC#\\Data\\tests.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABgAgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T17:34:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddExam.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\AddExam.cs",
+              "RelativeDocumentMoniker": "ExamC#\\AddExam.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\AddExam.cs",
+              "RelativeToolTip": "ExamC#\\AddExam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:59:12.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GradesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\GradesForm.cs",
+              "RelativeDocumentMoniker": "ExamC#\\GradesForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\GradesForm.cs [Design]",
+              "RelativeToolTip": "ExamC#\\GradesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:55:25.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Form1.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Form1.cs [Design]",
+              "RelativeToolTip": "ExamC#\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:16:49.659Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Data\\users.json",
+              "RelativeDocumentMoniker": "ExamC#\\Data\\users.json",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Data\\users.json",
+              "RelativeToolTip": "ExamC#\\Data\\users.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T17:34:42.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectExam.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\SelectExam.cs",
+              "RelativeDocumentMoniker": "ExamC#\\SelectExam.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\SelectExam.cs",
+              "RelativeToolTip": "ExamC#\\SelectExam.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:38:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Repos\\TestsRepo.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Repos\\TestsRepo.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Repos\\TestsRepo.cs",
+              "RelativeToolTip": "ExamC#\\Repos\\TestsRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:40:44.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Program.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Program.cs",
+              "RelativeToolTip": "ExamC#\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAvwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:19:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GradesData.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\GradesData.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Models\\GradesData.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\GradesData.cs",
+              "RelativeToolTip": "ExamC#\\Models\\GradesData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:45:52.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GradesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Repos\\GradesRepo.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Repos\\GradesRepo.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Repos\\GradesRepo.cs",
+              "RelativeToolTip": "ExamC#\\Repos\\GradesRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:45:24.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "grades.json",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Data\\grades.json",
+              "RelativeDocumentMoniker": "ExamC#\\Data\\grades.json",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Data\\grades.json",
+              "RelativeToolTip": "ExamC#\\Data\\grades.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAC3AgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T18:44:03.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\Grade.cs",
+              "RelativeToolTip": "ExamC#\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:44:33.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsersData.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\UsersData.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Models\\UsersData.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\UsersData.cs",
+              "RelativeToolTip": "ExamC#\\Models\\UsersData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:47:12.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestsData.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\TestsData.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Models\\TestsData.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\TestsData.cs",
+              "RelativeToolTip": "ExamC#\\Models\\TestsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:19:22.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\User.cs",
+              "RelativeToolTip": "ExamC#\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:39:26.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GradesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\GradesForm.Designer.cs",
+              "RelativeDocumentMoniker": "ExamC#\\GradesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\GradesForm.Designer.cs",
+              "RelativeToolTip": "ExamC#\\GradesForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:59:02.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\Question.cs",
+              "RelativeToolTip": "ExamC#\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:39:50.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 886,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\AddExam.cs",
+              "RelativeDocumentMoniker": "ExamC#\\AddExam.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\AddExam.cs [Design]",
+              "RelativeToolTip": "ExamC#\\AddExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:56:35.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Form1.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Form1.cs",
+              "RelativeToolTip": "ExamC#\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:28:19.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExamQuestions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\ExamQuestions.cs",
+              "RelativeDocumentMoniker": "ExamC#\\ExamQuestions.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\ExamQuestions.cs [Design]",
+              "RelativeToolTip": "ExamC#\\ExamQuestions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:29:43.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GradesForm.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\GradesForm.cs",
+              "RelativeDocumentMoniker": "ExamC#\\GradesForm.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\GradesForm.cs",
+              "RelativeToolTip": "ExamC#\\GradesForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:57:07.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersRepo.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Repos\\UsersRepo.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Repos\\UsersRepo.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Repos\\UsersRepo.cs",
+              "RelativeToolTip": "ExamC#\\Repos\\UsersRepo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:44:07.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "ExamC#\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\C#\\ExamC#\\ExamC#\\Models\\Test.cs",
+              "RelativeToolTip": "ExamC#\\Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:39:40.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

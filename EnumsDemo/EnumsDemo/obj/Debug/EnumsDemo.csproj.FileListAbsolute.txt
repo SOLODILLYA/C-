@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\EnumsDemo\EnumsDemo\bin\Debug\EnumsDemo.exe.config
+C:\Users\solod\IT\Step\C#\EnumsDemo\EnumsDemo\bin\Debug\EnumsDemo.exe
+C:\Users\solod\IT\Step\C#\EnumsDemo\EnumsDemo\bin\Debug\EnumsDemo.pdb
+C:\Users\solod\IT\Step\C#\EnumsDemo\EnumsDemo\obj\Debug\EnumsDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\EnumsDemo\EnumsDemo\obj\Debug\EnumsDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\EnumsDemo\EnumsDemo\obj\Debug\EnumsDemo.exe
+C:\Users\solod\IT\Step\C#\EnumsDemo\EnumsDemo\obj\Debug\EnumsDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\UniversityDB\UniversityDB\bin\Debug\UniversityDB.exe.config
+C:\Users\solod\IT\Step\C#\UniversityDB\UniversityDB\bin\Debug\UniversityDB.exe
+C:\Users\solod\IT\Step\C#\UniversityDB\UniversityDB\bin\Debug\UniversityDB.pdb
+C:\Users\solod\IT\Step\C#\UniversityDB\UniversityDB\obj\Debug\UniversityDB.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\UniversityDB\UniversityDB\obj\Debug\UniversityDB.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\UniversityDB\UniversityDB\obj\Debug\UniversityDB.exe
+C:\Users\solod\IT\Step\C#\UniversityDB\UniversityDB\obj\Debug\UniversityDB.pdb

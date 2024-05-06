@@ -1,0 +1,1 @@
+{"Name":"Catalog of learning litreture","Books":[{"Id":1,"Subject":"C#","Title":"Full C# manual","Author":"Gerbert Shildt","Year":2020,"Pages":770,"Cover":"cover1.jpg","Price":500},{"Id":2,"Subject":"HTML","Title":"HTML and CSS Quickstart Guide","Author":"David DuRocher","Year":2022,"Pages":1200,"Cover":"cover2.jpg","Price":800}]}

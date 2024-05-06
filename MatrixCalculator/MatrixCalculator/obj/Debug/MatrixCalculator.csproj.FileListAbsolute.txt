@@ -1,0 +1,6 @@
+C:\Users\solod\IT\Step\C#\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+C:\Users\solod\IT\Step\C#\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+C:\Users\solod\IT\Step\C#\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+C:\Users\solod\IT\Step\C#\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.pdb

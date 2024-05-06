@@ -1,0 +1,9 @@
+C:\Users\solod\IT\Step\C#\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe.config
+C:\Users\solod\IT\Step\C#\EventsDemo\EventsDemo\bin\Debug\EventsDemo.exe
+C:\Users\solod\IT\Step\C#\EventsDemo\EventsDemo\bin\Debug\EventsDemo.pdb
+C:\Users\solod\IT\Step\C#\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\EventsDemo\EventsDemo\obj\Debug\EventsDemo.exe
+C:\Users\solod\IT\Step\C#\EventsDemo\EventsDemo\obj\Debug\EventsDemo.pdb
+C:\Users\solod\IT\Step\C#\EventsDemo\EventsDemo\obj\Debug\EventsDemo.Form1.resources
+C:\Users\solod\IT\Step\C#\EventsDemo\EventsDemo\obj\Debug\EventsDemo.csproj.GenerateResource.cache

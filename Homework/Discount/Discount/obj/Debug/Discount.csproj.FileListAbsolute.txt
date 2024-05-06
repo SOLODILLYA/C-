@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\C#\Discount\Discount\bin\Debug\Discount.exe.config
+C:\Users\solod\IT\Step\C#\Discount\Discount\bin\Debug\Discount.exe
+C:\Users\solod\IT\Step\C#\Discount\Discount\bin\Debug\Discount.pdb
+C:\Users\solod\IT\Step\C#\Discount\Discount\obj\Debug\Discount.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\C#\Discount\Discount\obj\Debug\Discount.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\C#\Discount\Discount\obj\Debug\Discount.exe
+C:\Users\solod\IT\Step\C#\Discount\Discount\obj\Debug\Discount.pdb
